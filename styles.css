@@ -26,7 +26,7 @@ header {
 footer {
   color: white;
   background-color: black;
-  font-size: 17px;
+  font-size: 20px;
   padding: 8px;
   position: relative;
 }
@@ -209,5 +209,8 @@ div.emote:hover p.drpdwn{
   }
   .hometxt h1{
     font-size: 65px;
+  }
+  footer {
+    font-size: 15px;
   }
 }
