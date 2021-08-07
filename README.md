@@ -6,7 +6,7 @@ The languages used by me :-
 
 1) HTML5
 
-2) CSS3
+2) CSS
 
 3) JavaScript
 
