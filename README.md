@@ -1,4 +1,4 @@
-In this task, I made a Website Integrated with Payment Gateway for payments and hosted it. For payment purpose I used Razorpay.
+In this project, I made a Website Integrated with Payment Gateway for payments and hosted it. For payment purpose I used Razorpay.
 
 
 
